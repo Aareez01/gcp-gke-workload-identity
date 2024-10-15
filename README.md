@@ -1,4 +1,4 @@
-# GKE Workload Identity
+# Mapping GCP Service Account with GKE Service Account using Workload Identity
 
 #### This guide outlines the steps required to set up Workload Identity on a Google Kubernetes Engine (GKE) cluster. Workload Identity allows Kubernetes service accounts to act as IAM service accounts, providing a secure way to access Google Cloud resources.
 
